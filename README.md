@@ -8,7 +8,9 @@ http://www.mediafire.com/file/62cq202625b16ag/instahack-master.zip/file
 termux-setup-storage < cd storage < cd downloads < cd instahack-master
 
 pip install requests
+
 pip install --upgrade pip
+
 python hackinsta.py
 
 Please enter a username: (Target's user name)
