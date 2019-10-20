@@ -1,10 +1,6 @@
 # Instahack (Instabrute)
 ![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)
 
-## The script is not compatible with Android yet! 
-
-### Please dont open a new issue before you search if issue already exists
-### Please open issue with clear name
 
 ## How to use
 ###### First install all the required modules
