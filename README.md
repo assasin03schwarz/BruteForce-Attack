@@ -12,6 +12,8 @@ pip install --upgrade pip
 python hackinsta.py
 
 Please enter a username: (Target's user name)
-Do ypu want to use proxy (y/n): n
+
+Do you want to use proxy (y/n): n
+
 Please add delay between the bruteforce action (in seconds): 1
 
